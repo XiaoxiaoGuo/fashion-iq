@@ -86,11 +86,11 @@ def collate_fn(data):
 
     # Merge captions (from tuple of 1D tensor to 2D tensor).
     lengths = [len(cap) for cap in captions]
-    captions = torch.zeros(len(captions), max(lengths)).long()
+    captions_out = torch.zeros(len(captions), max(lengths)).long()
     for i, cap in enumerate(captions):
         end = lengths[i]
-        captions[i, :end] = cap[:end]
-    return target_images, candidate_images, captions, lengths, meta
+        captions_out[i, :end] = cap[:end]
+    return target_images, candidate_images, captions_out, lengths, meta
 
 
 def get_loader(root, data_file_name, vocab, transform, batch_size, shuffle, return_target, num_workers):
