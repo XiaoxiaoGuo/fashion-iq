@@ -21,4 +21,4 @@ The trained models will be saved into the folder `models/` every epoch.
 ```
 python eval.py --data_set dress --batch_size 128 --model_folder <your_model_folder_name> --data_split test
 ```
-5. Submit your results at: https://competitions.codalab.org/competitions/23391#results
+5. Submit your results at: https://codalab.lri.fr/competitions/573#results
