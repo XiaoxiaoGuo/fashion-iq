@@ -8,6 +8,8 @@ We released Fashion IQ dataset at ICCV 2019 workshop on
 
 The images can be downloaded from [here](https://github.com/hongwang600/fashion-iq-metadata). 
 
+The predicted attributes can be downloaded from [here](https://ibm.box.com/s/koj3z1oxxao3o4mrznyds8cg030brb8r).
+
 For more information on the dataset, please visit its [project page](https://www.spacewu.com/posts/fashion-iq). 
 
 ## Starter code for Fashion IQ challenge 
