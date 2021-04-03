@@ -23,7 +23,7 @@ If you find Fashion IQ useful, please cite the following paper:
 ```
 @article{guo2019fashion,
   title={The Fashion IQ Dataset: Retrieving Images by Combining Side Information and Relative Natural Language Feedback},
-  author={Guo, Xiaoxiao and Wu, Hui and Gao, Yupeng and Rennie, Steven and Feris, Rogerio},
+  author={Wu, Hui and Gao, Yupeng and Guo, Xiaoxiao and Al-Halah, Ziad  and Rennie, Steven and Grauman, Kristen and Feris, Rogerio},
   journal={arXiv preprint arXiv:1905.12794},
   year={2019}
 }
