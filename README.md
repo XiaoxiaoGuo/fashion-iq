@@ -8,7 +8,7 @@ We released Fashion IQ dataset at ICCV 2019 workshop on
 
 The images can be downloaded from [here](https://github.com/hongwang600/fashion-iq-metadata). 
 
-The image attribute features can be downloaded from [here](https://ibm.box.com/s/imyukakmnrkk2zuitju2m8akln3ayoct).
+The image attribute features can be downloaded from [here](https://ibm.box.com/s/bdfbaunvpkqffihcw8hqezqpugdddbaa).
 
 ## Starter code for Fashion IQ challenge 
 To get started with the framework, install the following dependencies:
